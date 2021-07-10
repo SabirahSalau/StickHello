@@ -1,0 +1,5 @@
+name: HelloListener
+version: 1.0
+author: Glass_Waves
+main: GlassWaves.StickHello.Main
+description: Prints text when player holds stick
